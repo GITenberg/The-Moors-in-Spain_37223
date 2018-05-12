@@ -1,0 +1,36 @@
+_repo: The-Moors-in-Spain_37223
+_version: 0.1.0
+contributor:
+  contributor:
+    agent_name: Gilman, Arthur
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '2035'
+    url: http://www.gutenberg.org/2009/agents/2035
+covers:
+- cover_type: archival
+  image_path: 37223-h/images/illo_cover.jpg
+creator:
+  author:
+    agent_name: Lane-Poole, Stanley
+    alias: Poole, Stanley Lane
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '25154'
+    url: http://www.gutenberg.org/2009/agents/25154
+description: ''
+gutenberg_issued: '2011-08-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37223'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spain -- History -- 711-1516'
+- !lcc 'DP'
+- !lcsh 'Islamic civilization'
+- !lcsh 'Muslims -- Spain -- History'
+title: The Moors in Spain
+url: http://www.gutenberg.org/ebooks/37223
